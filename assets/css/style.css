@@ -683,6 +683,9 @@ small {
     left: initial;
     bottom: initial;
   }
+  .mdi-certificate {
+  font-size: 16px; /* Small size */
+}
   #contact a.btn-floating.btn-large {
     display: block;
     text-align: center;
