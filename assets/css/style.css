@@ -457,6 +457,12 @@ h3 {
 .card i.right {
   margin-left: 10px;
 }
+.card a {
+    color: #008073;
+    margin-right: 20px;
+    transition: color 0.3s ease;
+    text-transform: uppercase;
+}
 
 a.hoverline {
   border-bottom: 3px solid transparent !important;
@@ -691,7 +697,5 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
-  .card a {
-    color: #008073;
-  }
+
 }
