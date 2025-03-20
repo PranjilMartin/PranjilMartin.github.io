@@ -691,4 +691,7 @@ small {
   #intro.section {
     background-position-x: 30%;
   }
+  .card a {
+    color: #008073;
+  }
 }
